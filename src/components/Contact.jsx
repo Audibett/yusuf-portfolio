@@ -54,7 +54,7 @@ export default function Contact() {
 
         <div className="grid md:grid-cols-2 gap-12">
 
-          {/* Left — contact info */}
+          
           <motion.div
             initial={{ opacity: 0, x: -20 }}
             whileInView={{ opacity: 1, x: 0 }}
